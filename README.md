@@ -1,6 +1,6 @@
 # ShadowSwitch
 
-[<img src="https://github.com/FluttX/shadow_switch/blob/main/screenshots/shadow_ligth_cover.png" height = "520">](#)
+[<img src="https://github.com/FluttX/shadow_switch/blob/main/screenshots/shadow_ligth_cover.png" height = "520">](https://youtu.be/OOLOSnTgU0Q)
 
 ShadowSwitch is a Flutter application that demonstrates a light switch with animated shadows and gradients, creating depth similar to a physical button.
 
@@ -10,8 +10,8 @@ ShadowSwitch is a Flutter application that demonstrates a light switch with anim
 - Intuitive user interface with sound
 
 ## Animation and Screenshots (GIF):
-|                ShadowSwitch App (GIF)                |                   Switch OFF                    |                  Switch ON                |
-|:-----------------------------------------------:|:-----------------------------------------------:|:----------------------------------------------------:|
+|                                           ShadowSwitch App (GIF)                                            |                                              Switch OFF                                              |                                              Switch ON                                              |
+|:-----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/FluttX/shadow_switch/blob/main/screenshots/shadow_switch_app.gif" width="250"> | <img src="https://github.com/FluttX/shadow_switch/blob/main/screenshots/switch_off.png" width="250"> | <img src="https://github.com/FluttX/shadow_switch/blob/main/screenshots/switch_on.png" width="250"> |
 
 ## Installation
